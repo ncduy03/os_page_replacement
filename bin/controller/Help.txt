@@ -1,0 +1,29 @@
+-----------------------------------------------Welcome to our application----------------------------------------------
+
+**Note: because the main purpose of this project is 
+to help user understand how the algorithm works,
+we put some restriction to our application:
+  	1. Maximum number of page frame and page reference is 5 and 13 respectively.
+  	2. We only implements 3 algorithms is FIFO, LRU and Optimal Page Replacement.
+
+
+1. Tool bar (on the top of the screen):
+* You can:
+  	- Choose to see instruction via Help Button:
+
+    - Exit the program via Exit Button, the program will show a dialog to confirm.
+
+2. Input region (under the tool bar):
+* From left to right:
+	- A choice box to choose an algorithm
+  
+  	- A text field to enter the number of page frames
+  	
+  	- A text field to input the page reference string
+  	
+ 	- A "Start" button to begin the demonstration.
+ 	
+ 3. Page Fault Field: display the number of page faults given the input.
+	
+	
+	
